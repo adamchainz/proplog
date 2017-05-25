@@ -2,7 +2,7 @@ name := "proplog"
 
 version := "1.0"
 
-scalaVersion := "2.12.1"
+scalaVersion := "2.12.2"
 
 libraryDependencies ++= Seq(
   "org.tpolecat" %%% "atto-core"  % "0.5.2",
